@@ -1,0 +1,22 @@
+{
+  "wheel_id": 740,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-152",
+  "project": "house-painting-services-toowoomba-d527ef09ff26444e89b20c68b309b",
+  "parent_t1_ref": "toowoombahousepainting-007",
+  "node_role": "buffer",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painting services toowoomba",
+  "intended_url": "https://aumedia.neocities.org/house-painting-services-toowoomba-d527ef09ff26444e89b20c68b309b/",
+  "tier": "T2",
+  "writeback_nonce": "1e6573a243d0d1ed",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/house-painting-services-toowoomba/",
+      "anchor": "House Painting Services Toowoomba: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
